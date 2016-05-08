@@ -1,0 +1,109 @@
+
+BODY {
+    font-family: arial;
+    background-color: rgb(247,247,247);
+}
+
+#main {
+    background-image: url(image/main_evolutionOfHuman.jpg);
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 1000px;
+    height: 700px;
+    
+    
+}
+
+#background_center {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#menu table {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#main_text {
+    font-family: Courier New;
+    font-size: 30;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 400px;
+}
+
+#menu img{
+    width: 100px;
+    height:100px;  
+}
+
+#menu a {
+    text-decoration: none;
+    color:black;
+}
+
+#ABOUT_ME_BAR {
+    text-align: center;
+    color: white;
+    background-color: rgb(220,115,100);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#RESUME_BAR {
+    text-align: center;
+    color: white;
+    background-color: rgb(155,200,100);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#PHOTOS_BAR {
+    text-align: center;
+    color: white;
+    background-color: rgb(100,200,200);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#CONTACTS_BAR {
+    text-align: center;
+    color: white;
+    background-color: rgb(100,150,200);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+#RESUME_DOC {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+#CONTACTS table {
+    width: 100%;
+    text-align: center;
+    padding-top: 75px;
+    color: rgb(100,150,200);
+}
+
+#designer {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#ABOUT_ME_PROFILE {
+    text-align: center; 
+}
+
