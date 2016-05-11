@@ -10,8 +10,9 @@ BODY {
     background-color: white;
     width: 1000px;
     height: 700px;
-    
-    
+    position: relative;
+
+
 }
 
 #background_center {
@@ -29,16 +30,20 @@ BODY {
 
 
 #main_text {
-    font-family: Courier New;
-    font-size: 30;
+    font-size: 35px;
+    font-family: "Courier New";
     font-weight: bold;
     text-align: center;
-    padding-top: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 #menu img{
     width: 100px;
-    height:100px;  
+    height:100px;
 }
 
 #menu a {
@@ -104,6 +109,5 @@ BODY {
 }
 
 #ABOUT_ME_PROFILE {
-    text-align: center; 
+    text-align: center;
 }
-
