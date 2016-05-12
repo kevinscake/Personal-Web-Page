@@ -18,7 +18,4 @@ From `namecheap.com`, free to **May 2, 2017**
 
 1. HTML 5
 
-
-
-
 ***Back-End***

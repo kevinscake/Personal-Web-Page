@@ -9,7 +9,7 @@ BODY {
     background-repeat: no-repeat;
     background-color: white;
     width: 1000px;
-    height: 700px;
+    height: 800px;
     position: relative;
 
 
@@ -35,7 +35,7 @@ BODY {
     font-weight: bold;
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
@@ -110,4 +110,11 @@ BODY {
 
 #ABOUT_ME_PROFILE {
     text-align: center;
+}
+
+#_botChatFrame {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 402px;
 }
